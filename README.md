@@ -13,8 +13,7 @@ The marketplace allows employers to post jobs, while perspective self employed c
 * Exercise Difficulty: Moderate
 * How did you feel about the exercise itself? 8 , Excellent way to analyse coding style and design patterns 
 * How do you feel about coding an exercise as a step in the interview process?  8
-* What would you change in the exercise and/or process? It should be either the online coding challenge and technical phone screening by Karat or a smiliar backend assessment test by intuit. I have been through both and it seems too much at this stage.
-
+* What would you change in the exercise and/or process? It can be either the online coding challenge and technical phone screening by Karat or a backend assessment test by Intuit. I felt going through both prolong the interview process.
 ## Usage
 
 ### Seller
