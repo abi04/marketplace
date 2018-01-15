@@ -77,6 +77,9 @@ router.get('/project', function (req, res, next) {
         obj.push(object);
     });
     logger.info('Getting all open projects');
+    if(obj.length < 1){
+      obj = {'message':'No active project available'};
+    }
     res.json(obj);
   }).catch(function (err) {
     logger.error(err.message);
